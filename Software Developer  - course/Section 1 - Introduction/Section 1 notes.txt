@@ -1,0 +1,10 @@
+Requiered Software:
+
+Visual Studio Community Edition : https://visualstudio.microsoft.com/
+
+// -> comment a line in c# code
+/* 
+
+-> multi line comments
+
+*/

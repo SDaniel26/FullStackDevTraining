@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\bin\Debug\BasicWinFormsApp.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\bin\Debug\BasicWinFormsApp.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\bin\Debug\BasicWinFormsApp.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer - C# OOP ASP.NET MVC MS SQL SQL Server - course\Section 1\Basic Windows Form App\BasicWinFormsApp\obj\Debug\BasicWinFormsApp.pdb
