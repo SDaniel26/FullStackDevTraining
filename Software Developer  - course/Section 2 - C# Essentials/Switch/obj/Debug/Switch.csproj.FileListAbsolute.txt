@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\bin\Debug\Switch.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\bin\Debug\Switch.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\bin\Debug\Switch.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Switch\obj\Debug\Switch.pdb

@@ -1,0 +1,7 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\bin\Debug\Dictionarieis.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\bin\Debug\Dictionarieis.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\bin\Debug\Dictionarieis.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\obj\Debug\Dictionarieis.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\obj\Debug\Dictionarieis.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\obj\Debug\Dictionarieis.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Dictionarieis\obj\Debug\Dictionarieis.pdb

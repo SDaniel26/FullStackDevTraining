@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\bin\Debug\Conditional.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\bin\Debug\Conditional.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\bin\Debug\Conditional.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Conditional\obj\Debug\Conditional.pdb

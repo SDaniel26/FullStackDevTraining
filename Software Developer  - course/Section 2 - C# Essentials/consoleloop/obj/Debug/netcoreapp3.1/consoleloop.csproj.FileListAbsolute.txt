@@ -1,0 +1,13 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\bin\Debug\netcoreapp3.1\consoleloop.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\consoleloop\obj\Debug\netcoreapp3.1\consoleloop.genruntimeconfig.cache

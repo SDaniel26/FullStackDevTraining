@@ -1,0 +1,13 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

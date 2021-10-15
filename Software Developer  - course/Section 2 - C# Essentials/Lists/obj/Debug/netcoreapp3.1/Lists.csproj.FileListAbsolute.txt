@@ -1,0 +1,13 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 2 - C# Essentials\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
