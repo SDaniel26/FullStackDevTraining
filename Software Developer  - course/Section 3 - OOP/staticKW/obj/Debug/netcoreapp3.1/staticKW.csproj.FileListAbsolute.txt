@@ -1,0 +1,12 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\bin\Debug\netcoreapp3.1\staticKW.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\staticKW\obj\Debug\netcoreapp3.1\staticKW.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 3 - OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
