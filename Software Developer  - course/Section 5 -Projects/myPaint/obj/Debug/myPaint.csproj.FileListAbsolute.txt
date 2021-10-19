@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\bin\Debug\myPaint.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\bin\Debug\myPaint.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\bin\Debug\myPaint.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\myPaint\obj\Debug\myPaint.pdb
