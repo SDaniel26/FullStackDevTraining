@@ -1,0 +1,15 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.MyMusicPlayer.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
