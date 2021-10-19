@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\bin\Debug\VolumeConverter.exe.config
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\bin\Debug\VolumeConverter.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\bin\Debug\VolumeConverter.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Software Developer  - course\Section 5 -Projects\VolumeConverter\obj\Debug\VolumeConverter.pdb
