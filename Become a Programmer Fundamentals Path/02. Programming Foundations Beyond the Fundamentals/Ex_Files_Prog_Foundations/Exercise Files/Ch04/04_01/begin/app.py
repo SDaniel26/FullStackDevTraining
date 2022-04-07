@@ -1,2 +1,5 @@
 value = input('Enter a number: ')
-print(value)
+print(value + ' is my favorite number!')
+print('The number multiplied by 10 is:')
+value_int = int(value)
+print(value_int * 10)
