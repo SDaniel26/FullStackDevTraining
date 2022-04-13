@@ -1,0 +1,13 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.exe
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.deps.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.runtimeconfig.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.runtimeconfig.dev.json
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\bin\Debug\netcoreapp3.1\euclid1.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.AssemblyInfoInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.AssemblyInfo.cs
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.dll
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.pdb
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid1\obj\Debug\netcoreapp3.1\euclid1.genruntimeconfig.cache

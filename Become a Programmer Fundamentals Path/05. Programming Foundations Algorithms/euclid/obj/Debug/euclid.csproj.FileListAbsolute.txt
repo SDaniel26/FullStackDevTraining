@@ -1,0 +1,2 @@
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid\obj\Debug\euclid.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\FullStackDevTraining\Become a Programmer Fundamentals Path\05. Programming Foundations Algorithms\euclid\obj\Debug\euclid.csproj.CoreCompileInputs.cache
